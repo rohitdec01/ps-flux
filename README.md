@@ -1,4 +1,7 @@
+## React with Flux.
+
 This project was bootstrapped with [Create React MyApp](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
