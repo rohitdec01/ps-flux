@@ -1,7 +1,7 @@
 import React from 'react';
 import AboutPage from "./AboutPage";
 import Homepage from "./HomePage";
-import Header from "./common/header";
+import Header from "./common/Header";
 import CoursesPage from "./CoursesPage";
 import PageNotFound from "./PageNotFound";
 
